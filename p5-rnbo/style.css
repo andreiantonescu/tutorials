@@ -5,3 +5,16 @@ html, body {
     touch-action: none;
     font-family: 'Lora', serif;
 }
+
+#explanation {
+    position: absolute;
+    left: 50%;
+    bottom: 32px;
+    font-family: 'Lora', serif;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+button {
+    font-family: 'Lora', serif;
+}
